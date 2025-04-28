@@ -17,8 +17,12 @@
         "mocha": "^11.1.0",
         "morgan": "^1.10.0",
         "winston": "^3.17.0"
-      }
-    },
+      },
+    "scripts": {
+    "start": "node app.js",  // Start your app using app.js or server.js
+    "test": "mocha test/**/*.test.js"  // Run Mocha tests
+  }
+},
     "node_modules/@colors/colors": {
       "version": "1.6.0",
       "resolved": "https://registry.npmjs.org/@colors/colors/-/colors-1.6.0.tgz",
