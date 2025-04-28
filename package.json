@@ -19,8 +19,8 @@
         "winston": "^3.17.0"
       },
     "scripts": {
-    "start": "node app.js",  // Start your app using app.js or server.js
-    "test": "mocha test/**/*.test.js"  // Run Mocha tests
+    "start": "node app.js",  
+    "test": "mocha test/**/*.test.js"  
   }
 },
     "node_modules/@colors/colors": {
