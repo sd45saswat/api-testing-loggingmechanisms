@@ -1,0 +1,59 @@
+2025-04-28 17:20:28 [INFO]: Server is running on port 3000
+2025-04-28 17:20:48 [INFO]: Server is running on port 3000
+2025-04-28 17:23:25 [INFO]: Server is running on port 3000
+2025-04-28 17:23:25 [INFO]: Server is running on port 3000
+2025-04-28 17:23:27 [INFO]: Server is running on port 3000
+2025-04-28 17:23:27 [INFO]: Server is running on port 3000
+2025-04-28 17:23:30 [INFO]: Server is running on port 3000
+2025-04-28 17:23:30 [INFO]: Server is running on port 3000
+2025-04-28 17:24:59 [INFO]: Server is running on port 3000
+2025-04-28 17:24:59 [INFO]: Server is running on port 3000
+2025-04-28 17:31:01 [INFO]: Server is running on port 3000
+2025-04-28 17:35:13 [INFO]: Server is running on port 3000
+2025-04-28 17:35:13 [INFO]: Server is running on port 3000
+2025-04-28 17:35:14 [INFO]: Server is running on port 3000
+2025-04-28 17:37:26 [INFO]: Server is running on port 3000
+2025-04-28 17:37:26 [INFO]: Server is running on port 3000
+2025-04-28 17:37:26 [INFO]: Server is running on port 3000
+2025-04-28 17:37:34 [INFO]: Server is running on port 3000
+2025-04-28 17:37:34 [INFO]: Server is running on port 3000
+2025-04-28 17:37:34 [INFO]: Server is running on port 3000
+2025-04-28 17:38:06 [INFO]: Server is running on port 3000
+2025-04-28 17:38:30 [INFO]: GET request to /api
+2025-04-28 17:38:32 [INFO]: GET request to /api
+2025-04-28 17:38:33 [INFO]: GET request to /api
+2025-04-28 17:38:43 [INFO]: GET request to /api
+2025-04-28 17:38:44 [INFO]: GET request to /api
+2025-04-28 17:38:53 [INFO]: GET request to /api
+2025-04-28 17:46:26 [INFO]: Server is running on port 3000
+2025-04-28 17:46:26 [INFO]: Server is running on port 3000
+2025-04-28 17:46:26 [INFO]: Server is running on port 3000
+2025-04-28 17:46:26 [INFO]: Server is running on port 3000
+2025-04-28 17:57:21 [INFO]: Server is running on port 3000
+2025-04-28 17:57:21 [INFO]: Server is running on port 3000
+2025-04-28 17:57:21 [INFO]: Server is running on port 3000
+2025-04-28 17:57:21 [INFO]: Server is running on port 3000
+2025-04-28 17:59:43 [INFO]: Server is running on port 3000
+2025-04-28 17:59:43 [INFO]: Server is running on port 3000
+2025-04-28 17:59:43 [INFO]: Server is running on port 3000
+2025-04-28 17:59:43 [INFO]: Server is running on port 3000
+2025-04-28 17:59:44 [INFO]: Server is running on port 3000
+2025-04-28 17:59:44 [INFO]: Server is running on port 3000
+2025-04-28 17:59:45 [INFO]: Server is running on port 3000
+2025-04-28 17:59:45 [INFO]: Server is running on port 3000
+2025-04-28 18:01:15 [INFO]: Server is running on port 3000
+2025-04-28 18:01:15 [INFO]: Server is running on port 3000
+2025-04-28 18:01:15 [INFO]: Server is running on port 3000
+2025-04-28 18:01:15 [INFO]: Server is running on port 3000
+2025-04-28 18:02:50 [ERROR]: [2025-04-28T12:32:50.456Z] Route /thisroutedoesnotexist not found. - GET /thisroutedoesnotexist
+2025-04-28 18:03:27 [ERROR]: [2025-04-28T12:33:27.553Z] Route /thisroutedoesnotexist not found. - GET /thisroutedoesnotexist
+2025-04-28 18:11:14 [INFO]: Server is running on port 3000
+2025-04-28 18:11:14 [INFO]: Server is running on port 3000
+2025-04-28 18:11:14 [INFO]: Server is running on port 3000
+2025-04-28 18:11:15 [INFO]: Server is running on port 3000
+2025-04-28 18:11:53 [ERROR]: [2025-04-28T12:41:53.141Z] Route /thisroutedoesnotexist not found. - GET /thisroutedoesnotexist
+2025-04-28 18:11:56 [ERROR]: [2025-04-28T12:41:56.636Z] Route /thisroutedoesnotexist not found. - GET /thisroutedoesnotexist
+2025-04-28 18:26:46 [INFO]: Server is running on port 3000
+2025-04-28 18:26:46 [INFO]: Server is running on port 3000
+2025-04-28 18:26:46 [INFO]: Server is running on port 3000
+2025-04-28 18:26:46 [INFO]: Server is running on port 3000
